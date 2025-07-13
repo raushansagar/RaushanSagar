@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Founder of [Xcluv](https://xcluv.com](https://xcluv-frontend.onrender.com/) – Your next favorite fashion destination  
+- 🔭 Founder of [Xcluv](https://xcluv-frontend.onrender.com) – Your next favorite fashion destination  
 - 🌱 Currently building a Full-Stack **Posture Detection App**  
 - 🎓 B.Tech CSE @ JECRC University (2022–2026)  
 - 🧠 Solved **700+ DSA problems** on LeetCode  
@@ -52,7 +52,7 @@
 ### 🌟 Top Projects
 | Project | Description |
 |--------|-------------|
-| [✨ Xcluv - E-Commerce Platform](https://github.com/RaushanSagar/Xcluv) | A modern fashion e-commerce website built with MERN stack. |
+| [✨ Xcluv - E-Commerce Platform](https://github.com/Projects/tree/main/Ecommerce/Xcluv) | A modern fashion e-commerce website built with MERN stack. |
 | [🦾 Posture Detection App](https://github.com/RaushanSagar/posture-detector) | Full-Stack app for detecting bad posture in real-time using rule-based logic. |
 
 ---
