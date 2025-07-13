@@ -52,8 +52,7 @@
 ### 🌟 Top Projects
 | Project | Description |
 |--------|-------------|
-| [✨ Xcluv - E-Commerce Platform](https://github.com/Projects/tree/main/Ecommerce/Xcluv) | A modern fashion e-commerce website built with MERN stack. |
-| [🦾 Posture Detection App](https://github.com/RaushanSagar/posture-detector) | Full-Stack app for detecting bad posture in real-time using rule-based logic. |
+| [✨ Xcluv - E-Commerce Platform](https://github.com/raushansagar/Projects/tree/main/Ecommerce/Xcluv) | A modern fashion e-commerce website built with MERN stack. |
 
 ---
 
