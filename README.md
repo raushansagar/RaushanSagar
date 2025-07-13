@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Founder of [Xcluv](https://xcluv.com) – Your next favorite fashion destination  
+- 🔭 Founder of [Xcluv](https://xcluv.com](https://xcluv-frontend.onrender.com/) – Your next favorite fashion destination  
 - 🌱 Currently building a Full-Stack **Posture Detection App**  
 - 🎓 B.Tech CSE @ JECRC University (2022–2026)  
 - 🧠 Solved **700+ DSA problems** on LeetCode  
